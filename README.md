@@ -3,7 +3,7 @@
 
 # 실습 부분
 파이썬 개발 환경 / Pycryptodome 설치하기
-(깃허브 링크 예정)
+https://blockchain-dev-engdi.tistory.com/113
 
 # 실습 부분: 암호학
 - 파일 암호화.복호화 해보기
