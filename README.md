@@ -38,7 +38,7 @@ https://tutorial.djangogirls.org/ko/python_introduction/
 
 - 주석 제거 : ALT + 4
 
-https://m.blog.naver.com/dhsjid/221220034644 > 에러 정리 해놓은 블로그 
+https://m.blog.naver.com/dhsjid/221220034644 > 파이썬에서 나는 흔한 에러 정리 해놓은 블로그 
 
 # 실습 부분: 암호학
 - 파일 암호화.복호화 해보기
