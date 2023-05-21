@@ -26,6 +26,18 @@ https://tutorial.djangogirls.org/ko/python_installation/ > CMD 사용법 참고
 # 파이썬 기초문법 숙지 페이지 (실습이 껌이지!)
 https://tutorial.djangogirls.org/ko/python_introduction/
 
+▶ 파이참, vscode, vs 등 대부분 idle에서의 주석 단축키
+
+- Window : CTRL + /
+
+- Mac OS : Command + /
+
+▶ 파이썬 IDLE 주석 단축키
+
+- 주석 생성 : ALT + 3 
+
+- 주석 제거 : ALT + 4
+
 
 # 실습 부분: 암호학
 - 파일 암호화.복호화 해보기
