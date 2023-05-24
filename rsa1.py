@@ -1,5 +1,3 @@
-__author__ = 'samsjang@naver.com'
-
 from Crypto.Cipher import PKCS1_OAEP
 from Crypto.PublicKey import RSA
 from Crypto.Hash import SHA256 as SHA
